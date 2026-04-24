@@ -1,8 +1,14 @@
-﻿# OmniCode Extensions
+# Zed Extensions
 
-Static extension registry for OmniCode.
+This is the central repository containing the extensions available for [Zed](https://zed.dev/).
 
-Runtime URL:
-`https://raw.githubusercontent.com/ParinovYT/OmniCode_extensions/main/index.json`
+## Getting started
 
-Archives are stored under `downloads/<extension>/<version>.tar.gz` and `downloads/<extension>/latest.tar.gz`.
+See the [Developing Extensions](https://zed.dev/docs/extensions/developing-extensions) docs for how to develop and publish your extension
+
+Looking for extension ideas? Check out:
+
+- [Top theme requests](https://github.com/zed-industries/extensions/issues?q=is%3Aissue+is%3Aopen+label%3Atheme+sort%3Areactions-%2B1-desc)
+- [Top language requests](https://github.com/zed-industries/extensions/issues?q=is%3Aissue+is%3Aopen+label%3Alanguage+sort%3Areactions-%2B1-desc)
+
+If an issue requesting an extension is tagged with the `needs infrastructure` label, it indicates that the extension cannot currently be developed due to the absence of necessary system infrastructure.
